@@ -10,3 +10,7 @@ some purpose
 
 asd
 some further changes
+
+## Getting Started
+
+to get started with this project, just `clone` the repo
